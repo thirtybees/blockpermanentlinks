@@ -7,6 +7,7 @@ tags:
   - permanent links
   - menu
   - link block
+  - blockpermanentlinks
 description_short: Adds a block which displays permanent links such as sitemap, contact, etc.
 description: description.md
 images:
