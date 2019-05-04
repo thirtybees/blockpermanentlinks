@@ -41,6 +41,7 @@ class BlockPermanentLinks extends Module
 		$this->displayName = $this->l('Block Permanent Links');
 		$this->description = $this->l('Adds a block which  displays permanent links such as sitemap, contact, etc.');
 		$this->tb_versions_compliancy = '> 1.0.0';
+		$this->tb_min_version = '1.0.0';
 		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => '1.6.99.99');
 	}
 
